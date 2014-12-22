@@ -1,0 +1,86 @@
+The following is a list of GPLAB functions that potentially conflict with other functions with the same name already present in other toolboxes:
+
+/opt/matlab/toolbox/matlab/demos/demo.m
+/opt/matlab/toolbox/compiler/mcr/matlab/demos/demo.m
+/opt/matlab/toolbox/gplab/demo.m
+repetitions: 3
+
+/opt/matlab/toolbox/wavelet/wavelet/drawtree.m
+/opt/matlab/toolbox/gplab/drawtree.m
+repetitions: 2
+
+/opt/matlab/toolbox/signal/signal/@sigwin/@hamming/hamming.m
+/opt/matlab/toolbox/signal/signal/hamming.m
+/opt/matlab/toolbox/gplab/hamming.m
+repetitions: 3
+
+/opt/matlab/toolbox/matlab/iofun/@serial/isvalid.m
+/opt/matlab/toolbox/matlab/iofun/@timer/isvalid.m
+/opt/matlab/toolbox/compiler/mcr/matlab/iofun/@serial/isvalid.m
+/opt/matlab/toolbox/compiler/mcr/matlab/iofun/@timer/isvalid.m
+/opt/matlab/toolbox/instrument/instrument/@icgroup/isvalid.m
+/opt/matlab/toolbox/instrument/instrument/@instrument/isvalid.m
+/opt/matlab/toolbox/robust/robust/@atom/isvalid.m
+/opt/matlab/toolbox/robust/robust/@atomlist/isvalid.m
+/opt/matlab/toolbox/robust/robust/@dkitopt/isvalid.m
+/opt/matlab/toolbox/robust/robust/@iconnect/isvalid.m
+/opt/matlab/toolbox/robust/robust/@ndlft/isvalid.m
+/opt/matlab/toolbox/robust/robust/@optunit/isvalid.m
+/opt/matlab/toolbox/robust/robust/@robopt/isvalid.m
+/opt/matlab/toolbox/robust/robust/@ucomplexm/isvalid.m
+/opt/matlab/toolbox/robust/robust/@ufrd/isvalid.m
+/opt/matlab/toolbox/robust/robust/@umat/isvalid.m
+/opt/matlab/toolbox/robust/robust/@ureal/isvalid.m
+/opt/matlab/toolbox/robust/robust/@uss/isvalid.m
+/opt/matlab/toolbox/robust/robust/@wcgopt/isvalid.m
+/opt/matlab/toolbox/vr/vr/@vrfigure/isvalid.m
+/opt/matlab/toolbox/vr/vr/@vrnode/isvalid.m
+/opt/matlab/toolbox/vr/vr/@vrworld/isvalid.m
+/opt/matlab/toolbox/sloptim/sloptim/@ResponseOptimizer/@SignalConstraint/isvalid.m
+/opt/matlab/toolbox/gplab/isvalid.m
+repetitions: 24
+
+/opt/matlab/toolbox/vr/orbisnap/license.txt
+/opt/matlab/toolbox/gplab/license.txt
+repetitions: 2
+
+/opt/matlab/toolbox/matlab/graphics/light.m
+/opt/matlab/toolbox/compiler/mcr/matlab/graphics/light.m
+/opt/matlab/toolbox/gplab/light.m
+repetitions: 3
+
+/opt/matlab/toolbox/wavelet/waveobsolete/maketree.m
+/opt/matlab/toolbox/gplab/maketree.m
+repetitions: 2
+
+/opt/matlab/toolbox/stats/nansum.m
+/opt/matlab/toolbox/gplab/nansum.m
+repetitions: 2
+
+/opt/matlab/toolbox/vr/vr/@vrworld/nodes.m
+/opt/matlab/toolbox/gplab/nodes.m
+repetitions: 2
+
+/opt/matlab/toolbox/shared/controllib/@resppack/@siminputdata/normalize.m
+/opt/matlab/toolbox/shared/controllib/@wavepack/@timedata/normalize.m
+/opt/matlab/toolbox/filterdesign/quantization/@qfilt/normalize.m
+/opt/matlab/toolbox/signal/signal/@dfilt/normalize.m
+/opt/matlab/toolbox/robust/rctutil/normalize.m
+/opt/matlab/toolbox/gplab/normalize.m
+repetitions: 6
+
+/opt/matlab/toolbox/matlab/timeseries/@tsguis/@timeplot/scale.m
+/opt/matlab/toolbox/signal/signal/@dfilt/scale.m
+/opt/matlab/toolbox/sloptim/sloptim/@ResponseOptimizer/@SignalConstraint/scale.m
+/opt/matlab/toolbox/gplab/scale.m
+repetitions: 4
+
+/opt/matlab/toolbox/stateflow/stateflow/private/shuffle.m
+/opt/matlab/toolbox/gplab/shuffle.m
+repetitions: 2
+
+/opt/matlab/toolbox/robust/rctobsolete/robust/wheel.m
+/opt/matlab/toolbox/gplab/wheel.m
+repetitions: 2
+
+repeated names: 13

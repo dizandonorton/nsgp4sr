@@ -1,0 +1,120 @@
+GNU Octave, version 3.6.4
+Copyright (C) 2013 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Octave was configured for "x86_64-apple-darwin11.3.0".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/get-involved.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+
+For information about changes from previous versions, type `news'.
+
+GNU Octave, version 3.6.4
+Copyright (C) 2013 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Octave was configured for "x86_64-apple-darwin11.3.0".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/get-involved.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+
+For information about changes from previous versions, type `news'.
+
+11-multiplexer_x.txt		license.txt
+11-multiplexer_y.txt		light.m
+BIOAVAILABILITY2.txt		linearppp.m
+DOCKING.txt			low.m
+FLUDARABINE.txt			maketree.m
+PPB.txt				mediana.m
+TOXICITY.txt			moveadaptwindow.m
+absolute.m			mutation.m
+accuracy_complexity.m		mydivide.m
+addcredit.m			myif.m
+addfunctions.m			mylog.m
+addoperators.m			mylog10.m
+addterminals.m			mylog2.m
+ajout.m				mypower.m
+anteval.m			mysqrt.m
+antfitness.m			nand.m
+antfitness_lib.m		nansum.m
+antfoodahead.m			newind.m
+antif.m				nodes.m
+antleft.m			nor.m
+antmove.m			normal.m
+antnewpos.m			normalize.m
+antpath.m			nullexceeding.m
+antprogn2.m			octave-core
+antprogn3.m			operator_evolution.m
+antright.m			orderby.m
+antsim.m			parity3bit_x.txt
+anttrail.m			parity3bit_y.txt
+applyoperator.m			parity5bit_x.txt
+applysurvival.m			parity5bit_y.txt
+automaticoperatorprobs.m	pickoperator.m
+availableparams.m		pickparents.m
+availablestates.m		pivotfixe.m
+calcfitness.m			plotpareto.m
+calcpopexpected.m		quartic_x.txt
+calcpopfitness.m		quartic_y.txt
+checkvarsdata.m			rampedinit.m
+checkvarsparams.m		rank85.m
+checkvarsstate.m		rank89.m
+countfind.m			ranking.m
+crossover.m			regfitness.m
+csv.csv				resetparams.m
+demoant.m			resetstate.m
+demoparity.m			resources.m
+demoplexer.m			roulette.m
+demoregression.m		run.txt
+desired_obtained.m		sampling.m
+dizando_test.m			santafepellets.txt
+doubletour.m			santafetrail.txt
+drawtree.m			saveall.m
+dyndepth.m			scale.m
+dynnodes.m			setfunctions.m
+evaluate_tree.m			setinitialprobs.m
+exp.txt				setoperators.m
+explode.m			setparams.m
+findfirstindex.m		setterminals.m
+findnode.m			shrinkmutation.m
+fixdec.m			shuffle.m
+fixedpopsize.m			soma.txt
+free.m				steady.m
+fullinit.m			stopcondition.m
+generate_tt_data.m		strictdepth.m
+generation.m			strictnodes.m
+genpop.m			suppression.m
+get_descriptor.m		sus.m
+get_predictor.m			swapmutation.m
+gplab.m				swapnodes.m
+gplab.octave.3			testind.m
+graphicscontinue.m		tmp_x_test.txt
+graphicsgenerations.m		tmp_x_training.txt
+graphicsinit.m			tmp_y_test.txt
+graphicsstart.m			tmp_y_training.txt
+growinit.m			tourbest.m
+hamming.m			tournament.m
+heavydyndepth.m			tree2str.m
+heavydynnodes.m			treelevel.m
+implode.m			uniquegen.m
+initpop.m			uniquenosort.m
+intrand.m			updatenodeids.m
+intronnodes.m			updateoperatorprobs.m
+isoperator.m			updatestate.m
+isvalid.m			validateinds.m
+kozadivide.m			wheel.m
+kozasqrt.m			xx
+lexictour.m			xy2inout.m
+
